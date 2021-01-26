@@ -84,7 +84,7 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 1. Design and prototype a mobile application (_Knowledge_, _Process_)
 
 - [Swift](https://swift.org/)
-- [Apple Developer Swift site](https://developer.apple.com/swift/)
+- [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
 
 2. Use collaborative software tools (_Communication_, _Realisation_)
 
@@ -93,6 +93,7 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 
 3. Understand and code for a popular mobile development stack (_Enquiry_, _Knowledge_)
 
+- [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
 - [Apple Developer Swift site](https://developer.apple.com/swift/)
 - [Apple Developer iOS site](https://developer.apple.com/ios/)
 
@@ -120,7 +121,7 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 
 In addition to the **formal assessment** at the end of **Blocks 1 and 2**, we will be participating in weekly **Experiment/play** workshops. We will discuss and work on the weekly exercises in groups of three on Monday afternoons during the **Experiment/play** hour. The weekly **Experiment/play** exercises won't be assessed, but will be in your interest to complete.
 
-The **Experiment/play** exercises will be based on excerpts from Apple's Swift development documentation TBC ADD LINKS HERE.
+The **Experiment/play** exercises will be based on excerpts from Apple's Swift development documentation - specifically the ["Develop in Swift Explorations" and "Develop in Swift Fundamentals" courses](https://www.apple.com/education/higher-education/app-development/).
 
 This of idea of small technical exercises was inspired by [Caitlin Morris](http://www.caitlinmorris.net/) and her advice:
 
@@ -134,15 +135,13 @@ Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104
 
 DRAFT DRAFT DRAFT
 
-## Week 1 - Monday 19th October 2020 (week 43 of 53) - In person learning 1 - Introduction
+## Week 1 - Monday 22nd February 2021 (week 8 of 52) - In person learning 1 - Introduction
 
-- 1000-1300 - Session 1 for Group A and Group Online, taught by me.
-- 1400-1700 - Session 2 for Group B, taught by me.
-- 1000-1300 (the day after, Tuesday) - Session 3 for Group C, taught by [Alice Stewart](https://alicestew.art/).
+- 1000-1300 - Online session for all groups, taught by me.
 
-- Hour 1: **Introduction lecture** - use the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48806) to watch my pre-recorded introduction lecture on the course, creative coding, JavaScript and specifically p5.js. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2020/slides/lecture_00.html).
-- Hour 2: [**Introduction workshop**](https://jgl.github.io/CCIDiploma-AutumnWinter2020/slides/workshop_00.html) - signing up for websites, introducing yourselves and having a discussion about the unit and course.
-- Hour 3: **Watch/listen 1** - use the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48806) to absorb a pre-recorded lecture from me on Counting and Remembering, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-AutumnWinter2020/slides/lecture_01.html).
+- Hour 1: **Introduction lecture** - use the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48806) to watch my pre-recorded introduction lecture on the course. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_00.html).
+- Hour 2: [**Introduction workshop**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_00.html) - getting familiar with Swift and Xcode.
+- Hour 3: **Watch/listen 1** - use the [Unit 1 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48806) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_01.html).
 
 Further sessions are TBC, depending on multiple choice test and practical exam timings, and other unit's assessment timings.
 
