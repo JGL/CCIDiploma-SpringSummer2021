@@ -82,20 +82,15 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 ### Unit 4 / Block 2: "Coding for Collaborative App Development"
 
 1. Design and prototype a mobile application (_Knowledge_, _Process_)
-
-- [Swift](https://swift.org/)
-- [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
-
-1. Use collaborative software tools (_Communication_, _Realisation_)
-
-- [Slack](https://slack.com/)
-- [GitHub](https://github.com/)
-
-1. Understand and code for a popular mobile development stack (_Enquiry_, _Knowledge_)
-
-- [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
-- [Apple Developer Swift site](https://developer.apple.com/swift/)
-- [Apple Developer iOS site](https://developer.apple.com/ios/)
+   - [Swift](https://swift.org/)
+   - [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
+2. Use collaborative software tools (_Communication_, _Realisation_)
+   - [Slack](https://slack.com/)
+   - [GitHub](https://github.com/)
+3. Understand and code for a popular mobile development stack (_Enquiry_, _Knowledge_)
+   - [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
+   - [Apple Developer Swift site](https://developer.apple.com/swift/)
+   - [Apple Developer iOS site](https://developer.apple.com/ios/)
 
 ### Teaching Style
 
