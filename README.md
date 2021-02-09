@@ -1,4 +1,4 @@
-# Lecture/workshop slides and wiki for Unit 4 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2020/2021 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma).
+# Lecture/workshop slides and wiki for Unit 4 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2020/2021 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma)
 
 DRAFT DRAFT DRAFT
 
@@ -86,12 +86,12 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 - [Swift](https://swift.org/)
 - [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
 
-2. Use collaborative software tools (_Communication_, _Realisation_)
+1. Use collaborative software tools (_Communication_, _Realisation_)
 
 - [Slack](https://slack.com/)
 - [GitHub](https://github.com/)
 
-3. Understand and code for a popular mobile development stack (_Enquiry_, _Knowledge_)
+1. Understand and code for a popular mobile development stack (_Enquiry_, _Knowledge_)
 
 - [Apple Developer Higher Education Swift site](https://www.apple.com/education/higher-education/app-development/)
 - [Apple Developer Swift site](https://developer.apple.com/swift/)
@@ -129,9 +129,9 @@ This of idea of small technical exercises was inspired by [Caitlin Morris](http:
 
 ~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
 
-Following the <a href="https://twitter.com/helenbevan/status/1175650749797167104?s=11">latest research</a>, I've decided to shift us from pairs to threes. After all, <a href="https://www.youtube.com/watch?v=np0YIaHv6LQ">three is a magic number</a>.
+Following the [latest research](https://twitter.com/helenbevan/status/1175650749797167104?s=11), I've decided to shift us from pairs to threes. After all, [three is a magic number](https://www.youtube.com/watch?v=np0YIaHv6LQ)</a>.
 
-## Block 2, Unit 4 schedule:
+## Block 2, Unit 4 schedule
 
 DRAFT DRAFT DRAFT
 
