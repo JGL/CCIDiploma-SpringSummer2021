@@ -1,7 +1,5 @@
 # Lecture/workshop slides and wiki for Unit 4 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2020/2021 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma)
 
-DRAFT DRAFT DRAFT
-
 ## Information
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
