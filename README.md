@@ -8,20 +8,14 @@ DRAFT DRAFT DRAFT
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly teaching times:
-  - Week 1 of the 3 week rotation: (all taught by me)
-    - In person session 1: Monday 1000-1300.
-    - In person session 2: Monday 1400-1700.
-    - In person session 3: Tuesday 1000-1300.
-  - Weeks 2 and 3 of the 3 week rotation:
-    - Remote sessions: Monday 1000-1300.
+- Weekly teaching time: Monday 1000-1300.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 - Tutorials take place every Tuesday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote Tutorial session 1: Tuesdays 1000-1300.
   - Remote Tutorial session 2: Tuesdays 1400-1700.
   - Please see the [Unit 4 Wiki Tutorial Schedule](https://github.com/JGL/CCIDiploma-SpringSummer2021/wiki/Tutorial-Schedule) for details of when **your next** tutorial will be.
 - If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Unit 4 Moodle TBC - see the Unit 4 Moodle for links to pre-recorded lectures as well as Blackboard links to our remote teaching sessions.
+- [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) - see the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) for Blackboard Collaborate Ultra links to our remote teaching sessions.
 - [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-SpringSummer2021/)
 - Please see the [Unit 4 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-SpringSummer2021/wiki).
 - [Take a look at the student sourced set of notes](https://github.com/rociorey/cci-2020/wiki).
@@ -60,7 +54,7 @@ In addition, [Vali Lalioti](https://www.theinnovationconsultancy.com/about/) wil
 - Unit 5: Working and the Digital Creative Industries - taught by [Alex Fefegha](https://designcode.art/).
 - Unit 6: Creative Practice: Computational Environments - taught by [Indira Knight](https://www.linkedin.com/in/indira-k-bb857515b/) and [Alice Stewart](https://alicestew.art/).
 
-In addition Vali Lalioti will be supporting the online Diploma cohort for all units.
+In addition [Dr. Vali Lalioti](https://www.theinnovationconsultancy.com/about/) will be supporting the online Diploma cohort for all units.
 
 ## Learning Outcomes and platforms for doing so
 
@@ -94,13 +88,28 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 
 ### Teaching Style
 
-I'll be teaching with a [Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom) style. Simply put, I want to spend as much time working through problems and discussing together, rather than you listening to me lecture. Each teaching session will be structured in the following way:
+I'll be teaching using Apple's [Develop In Swift Explorations](https://books.apple.com/us/book/develop-in-swift-explorations/id1511184149) course. The course is made of four units, with an episode section between each unit. Each unit is split into four sections:
 
-- Hour 1: **Explore/engage** - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: **Experiment/play** - work on creative code exercises based on the previous week's lecture, our discussion in the previous hour.
-- Hour 3: **Watch/listen** - absorb a pre-recorded lecture from me, in preparation for next weeks session.
+1. Get Started
+   - You’ll begin by learning the key concepts covered in the unit, exploring how they relate to your everyday experiences, and completing activities that deepen your understanding. By using coding concepts to think about everyday problems, you’ll also be learning to think critically, to see the world as a programmer, and to apply computational reasoning.
+2. Play
+   - In this section, you’ll apply the key concepts in Xcode playgrounds, where you can experiment with code and see the results immediately. As you complete each activity, you can check your understanding by answering review questions in the book. You’ll also apply your understanding of the unit concepts through fun, creative playground challenges that will help you start thinking about your own app projects. Later in the book, you’ll build simple apps to explore development topics.
+3. Build
+   - You’ll be guided through the steps of building an app in Xcode. For this section, you’ll want to keep this book open while you’re working in Xcode.
+4. Design
+   - You’ll explore the impact of computing innovations and experience the app design process. You’ll also consider the choices that app designers and developers make, knowing that their app could impact thousands—even millions—of people.
+
+Between the units, the episodes tell the story of a group of TV club students as they use technology in their daily lives. Each episode introduces key concepts about technology—and challenges you to analyse the students’ choices and to reflect on your own practices.
+
+This will be the first time that I've taught using this material, so I'd love to hear all feedback - good and bad!
 
 _**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_
+
+## Working in groups of three
+
+~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
+
+Following the [latest research](https://twitter.com/helenbevan/status/1175650749797167104?s=11), I've decided to shift us from pairs to threes. After all, [three is a magic number](https://www.youtube.com/watch?v=np0YIaHv6LQ)</a>.
 
 ## Assessment
 
@@ -112,111 +121,51 @@ Units 2 and 5 are assessed via an essay.
 
 Units 3 and 6 are assessed via the submission of a 5 minute video and accompanying PDF document.
 
-## Experiment/Play exercises
-
-In addition to the **formal assessment** at the end of **Blocks 1 and 2**, we will be participating in weekly **Experiment/play** workshops. We will discuss and work on the weekly exercises in groups of three on Monday afternoons during the **Experiment/play** hour. The weekly **Experiment/play** exercises won't be assessed, but will be in your interest to complete.
-
-The **Experiment/play** exercises will be based on excerpts from Apple's Swift development documentation - specifically the ["Develop in Swift Explorations" and "Develop in Swift Fundamentals" courses](https://www.apple.com/education/higher-education/app-development/).
-
-This of idea of small technical exercises was inspired by [Caitlin Morris](http://www.caitlinmorris.net/) and her advice:
-
-> Remind students that technical exercises can be the root of a bigger idea. I’ve had students submit small sketches along with their introductory exercises under the prompt of “if I worked on this for another month/year, what could it become?”. Some really beautiful ideas emerge and I’ve found that it makes students more concept-attentive in their weekly projects, as well as providing some groundwork for larger final projects.
-
-~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
-
-Following the [latest research](https://twitter.com/helenbevan/status/1175650749797167104?s=11), I've decided to shift us from pairs to threes. After all, [three is a magic number](https://www.youtube.com/watch?v=np0YIaHv6LQ)</a>.
-
 ## Block 2, Unit 4 schedule
 
-DRAFT DRAFT DRAFT
+## Week 1 - Monday 22nd February 2021 (week 8 of 52)
 
-## Week 1 - Monday 22nd February 2021 (week 8 of 52) - Introduction (Remote Session)
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_01.html).
 
-- 1000-1300 - Online session for all groups, taught by me.
+## Week 2 - Monday 1st March 2021 (week 9 of 52)
 
-- Hour 1: **Introduction lecture** - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my pre-recorded introduction lecture on the course. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_00.html).
-- Hour 2: [**Introduction workshop**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_00.html) - getting familiar with Swift and Xcode and remote access for those without Mac/iOS hardware.
-- Hour 3: [**Watch/Listen 1**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_01.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_02.html).
 
-## Week 2 - Monday 1st March 2021 (week 9 of 52) - TBC (Remote Session)
+## Week 3 - Monday 8th March 2021 (week 10 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me.
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_03.html).
 
-- Hour 1: [**Explore/Engage 1**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_01_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 1**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_01_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 2**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_02.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
+## Week 4 - Monday 15th March 2021 (week 11 of 52)
 
-## Week 3 - Monday 8th March 2021 (week 10 of 52) - TBC (Remote Session)
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_04.html).
 
-- 1000-1300 - Online session for all groups, taught by me.
+## Week 5 - Monday 22nd March 2021 (week 12 of 52)
 
-- Hour 1: [**Explore/Engage 2**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_02_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 2**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_02_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 3**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_03.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_05.html).
 
-## Week 4 - Monday 15th March 2021 (week 11 of 52) - TBC (Remote Session)
+## Week 6 - Monday 12th April 2021 (week 15 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me.
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_06.html).
 
-- Hour 1: [**Explore/Engage 3**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_03_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 3**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_03_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 4**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_04.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
+## Week 7 - Monday 19th April 2021 (week 16 of 52)
 
-## Week 5 - Monday 22nd March 2021 (week 12 of 52) - TBC (Remote Session)
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
 
-- 1000-1300 - Online session for all groups, taught by me.
+## Week 8 - Monday 26th April 2021 (week 17 of 52))
 
-- Hour 1: [**Explore/Engage 4**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_04_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 4**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_04_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 5**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_05.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_08.html).
 
-## Week 6 - Monday 12th April 2021 (week 15 of 52) - TBC (Remote Session)
+## Week 9 - Monday 10th May 2021 (week 19 of 52))
 
-- 1000-1300 - Online session for all groups, taught by me.
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
 
-- Hour 1: [**Explore/Engage 5**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_05_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 5**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_05_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 6**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_06.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
+## Week 10 - Monday 17th May 2021 (week 20 of 52)
 
-## Week 7 - Monday 19th April 2021 (week 16 of 52) - TBC (Remote Session)
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_10.html).
 
-- 1000-1300 - Online session for all groups, taught by me.
+## Week 11 - Monday 24th May 2021 (week 21 of 52)
 
-- Hour 1: [**Explore/Engage 6**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_06_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 6**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_06_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 7**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
-
-## Week 8 - Monday 26th April 2021 (week 17 of 52) - TBC (Remote Session)
-
-- 1000-1300 - Online session for all groups, taught by me.
-
-- Hour 1: [**Explore/Engage 7**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_07_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 7**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_07_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 8**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_08.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
-
-## Week 9 - Monday 10th May 2021 (week 19 of 52) - TBC (Remote Session)
-
-- 1000-1300 - Online session for all groups, taught by me.
-
-- Hour 1: [**Explore/Engage 8**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_08_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 8**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_08_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 9**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
-
-## Week 10 - Monday 17th May 2021 (week 20 of 52) - TBC (Remote Session)
-
-- 1000-1300 - Online session for all groups, taught by me.
-
-- Hour 1: [**Explore/Engage 9**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_09_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 9**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_09_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 10**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_10.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
-
-## Week 11 - Monday 24th May 2021 (week 21 of 52) - TBC (Remote Session)
-
-- 1000-1300 - Online session for all groups, taught by me.
-
-- Hour 1: [**Explore/Engage 10**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_10_exploreAndEngage.html) - discuss the previous week's lecture, meditate, reflect, explain.
-- Hour 2: [**Experiment/Play 10**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/workshop_10_experimentAndPlay.html) - work on creative code exercises based on the previous week's lecture and our discussion in the previous hour.
-- Hour 3: [**Watch/Listen 11**](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_11.html) - use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to absorb a pre-recorded lecture from me on XXXXXXXXXXXX, in preparation for next weeks session.
+- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_11.html).
 
 ## Thanks
 
