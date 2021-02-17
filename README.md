@@ -88,13 +88,13 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 
 I'll be teaching using Apple's [Develop In Swift Explorations](https://books.apple.com/us/book/develop-in-swift-explorations/id1511184149) course. The course is made of four units, with an episode section between each unit. Each unit is split into four sections:
 
-1. Get Started
+1. **_Get Started_**
    - You’ll begin by learning the key concepts covered in the unit, exploring how they relate to your everyday experiences, and completing activities that deepen your understanding. By using coding concepts to think about everyday problems, you’ll also be learning to think critically, to see the world as a programmer, and to apply computational reasoning.
-2. Play
+2. **_Play_**
    - In this section, you’ll apply the key concepts in Xcode playgrounds, where you can experiment with code and see the results immediately. As you complete each activity, you can check your understanding by answering review questions in the book. You’ll also apply your understanding of the unit concepts through fun, creative playground challenges that will help you start thinking about your own app projects. Later in the book, you’ll build simple apps to explore development topics.
-3. Build
+3. **_Build_**
    - You’ll be guided through the steps of building an app in Xcode. For this section, you’ll want to keep this book open while you’re working in Xcode.
-4. Design
+4. **_Design_**
    - You’ll explore the impact of computing innovations and experience the app design process. You’ll also consider the choices that app designers and developers make, knowing that their app could impact thousands—even millions—of people.
 
 Between the units, the episodes tell the story of a group of TV club students as they use technology in their daily lives. Each episode introduces key concepts about technology—and challenges you to analyse the students’ choices and to reflect on your own practices.
