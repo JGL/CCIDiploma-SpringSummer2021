@@ -50,7 +50,7 @@ In addition, [Vali Lalioti](https://www.theinnovationconsultancy.com/about/) wil
 
 - Unit 4: Coding for Collaborative App Development - taught by me.
 - Unit 5: Working and the Digital Creative Industries - taught by [Alex Fefegha](https://designcode.art/).
-- Unit 6: Creative Practice: Computational Environments - taught by [Indira Knight](https://www.linkedin.com/in/indira-k-bb857515b/) and [Alice Stewart](https://alicestew.art/).
+- Unit 6: Creative Practice: Computational Environments - taught by [Indira Knight](https://www.linkedin.com/in/indira-k-bb857515b/) and [Emile Giles](http://emiliegiles.co.uk/).
 
 In addition [Dr. Vali Lalioti](https://www.theinnovationconsultancy.com/about/) will be supporting the online Diploma cohort for all units.
 
