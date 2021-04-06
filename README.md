@@ -145,17 +145,21 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 
 - 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_06.html).
 
-## Week 7 - Monday 19th April 2021 (week 16 of 52)
+## Week 7 - week commencing Monday 19th April 2021 (week 16 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
+- Monday 19th April 2021, 1000-1300 - Group A and Group Online: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
+- Monday 19th April 2021, 1400-1700 - Group B: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
+- Tuesday 20th April 2021, 1000-1300 - Group C: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
 
 ## Week 8 - Monday 26th April 2021 (week 17 of 52)
 
 - 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_08.html).
 
-## Week 9 - Monday 10th May 2021 (week 19 of 52)
+## Week 9 - week commencing Monday 10th May 2021 (week 19 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
+- Monday 10th May April 2021, 1000-1300 - Group A and Group Online: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
+- Monday 10th May 2021, 1400-1700 - Group B: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
+- Tuesday 11th May 2021, 1000-1300 - Group C: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
 
 ## Week 10 - Monday 17th May 2021 (week 20 of 52)
 
