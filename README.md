@@ -115,7 +115,7 @@ At the end of Block 1 (halfway through the Spring Term) and at the end of Block 
 
 Both units will be assessed in the same two ways - via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
 
-Because of Covid, last year only the Multiple Choice Swift Test was issued. Please find [last year's mock Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdfs/2020_06_01_Unit4MultipleChoiceExamMOCKWithAnswers.pdf) and last year's [real Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdfs/2020_05_25_Unit4MultipleChoiceExamREAL.pdf).
+Because of Covid, last year only the Multiple Choice Swift Test was issued. Please find [last year's mock Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_06_01_Unit4MultipleChoiceExamMOCKWithAnswers.pdf) and last year's [real Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_05_25_Unit4MultipleChoiceExamREAL.pdf).
 
 Units 2 and 5 are assessed via an essay.
 
